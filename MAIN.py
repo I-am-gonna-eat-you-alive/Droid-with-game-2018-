@@ -1,5 +1,6 @@
 # USER INTERFACE
 # Author: Reuben George
+# Date: 02-07-2018
 
 import time # For pausing the program at intervals
 import random # For the Random Number Generator
